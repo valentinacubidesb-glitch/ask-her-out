@@ -109,7 +109,7 @@ h1{
     animation-direction: reverse;
 }
 .wow::before{
-    content: "!TE VES COMO MÍO!";
+    content: "MÍO!";
     position: absolute;
     width: 0%;
     height: 100%;
